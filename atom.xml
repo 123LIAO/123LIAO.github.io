@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-03T17:00:26.197Z</updated>
+  <updated>2024-03-04T12:00:25.456Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,18 +21,547 @@
     <link href="http://example.com/2024/03/04/hello-world/"/>
     <id>http://example.com/2024/03/04/hello-world/</id>
     <published>2024-03-03T17:00:26.197Z</published>
-    <updated>2024-03-03T17:00:26.197Z</updated>
+    <updated>2024-03-04T12:00:25.456Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p><img src="/images/hello-world/image-20240206015250320.png" alt="image-20240206015250320"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的SSRF</title>
+    <link href="http://example.com/2024/01/31/ssrf/"/>
+    <id>http://example.com/2024/01/31/ssrf/</id>
+    <published>2024-01-31T09:10:20.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：i3g1nner</p><iframe src="//player.bilibili.com/player.html?aid=1350076825&bvid=BV14B42167Kd&cid=1425349493&p=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;分享人：i3g1nner&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=1350076825&amp;bvid=BV14B42167Kd&amp;cid=1425349493&amp;p=1&quot; allowfullscreen=&quot;all</summary>
       
     
     
     
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="SSRF" scheme="http://example.com/tags/SSRF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js原型链污染</title>
+    <link href="http://example.com/2024/01/18/nodejs/"/>
+    <id>http://example.com/2024/01/18/nodejs/</id>
+    <published>2024-01-18T10:08:34.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：蒙面阿强</p><iframe src="//player.bilibili.com/player.html?aid=623974729&bvid=BV1Qb4y1P7Uq&cid=1410888495&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：蒙面阿强&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=623974729&amp;bvid=BV1Qb4y1P7Uq&amp;cid=1410888495&amp;p=1&amp;autoplay=0&quot; allowfullscree</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Node.js" scheme="http://example.com/tags/Node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>科普篇——关于考研、保研和找工作</title>
+    <link href="http://example.com/2024/01/07/postgraduate-job/"/>
+    <id>http://example.com/2024/01/07/postgraduate-job/</id>
+    <published>2024-01-07T13:01:47.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：rainki</p><iframe src="//player.bilibili.com/player.html?aid=410977895&bvid=BV1BG411B7h9&cid=1397957041&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：rainki&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=410977895&amp;bvid=BV1BG411B7h9&amp;cid=1397957041&amp;p=1&amp;autoplay=0&quot; allowfullscr</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="科普" scheme="http://example.com/tags/%E7%A7%91%E6%99%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>车联网安全入门分享</title>
+    <link href="http://example.com/2023/12/27/v2x-introduction/"/>
+    <id>http://example.com/2023/12/27/v2x-introduction/</id>
+    <published>2023-12-27T07:54:23.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：风间映川</p><iframe src="//player.bilibili.com/player.html?aid=367863758&bvid=BV1m94y1F77i&cid=1382780770&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：风间映川&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=367863758&amp;bvid=BV1m94y1F77i&amp;cid=1382780770&amp;p=1&amp;autoplay=0&quot; allowfullscree</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="车联网安全" scheme="http://example.com/tags/%E8%BD%A6%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单了解符号执行</title>
+    <link href="http://example.com/2023/12/20/symbolic-execution/"/>
+    <id>http://example.com/2023/12/20/symbolic-execution/</id>
+    <published>2023-12-20T08:41:46.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：Celeste_GXB</p><iframe src="//player.bilibili.com/player.html?aid=792503055&bvid=BV1vC4y1S7KS&cid=1374228614&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：Celeste_GXB&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=792503055&amp;bvid=BV1vC4y1S7KS&amp;cid=1374228614&amp;p=1&amp;autoplay=0&quot; allowfu</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="二进制安全" scheme="http://example.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="符号执行" scheme="http://example.com/tags/%E7%AC%A6%E5%8F%B7%E6%89%A7%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文件上传另类应用</title>
+    <link href="http://example.com/2023/12/20/upload-file-sp/"/>
+    <id>http://example.com/2023/12/20/upload-file-sp/</id>
+    <published>2023-12-20T08:27:54.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：老梁</p><iframe src="//player.bilibili.com/player.html?aid=965065004&bvid=BV1up4y1Z7Ea&cid=1374210514&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：老梁&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=965065004&amp;bvid=BV1up4y1Z7Ea&amp;cid=1374210514&amp;p=1&amp;autoplay=0&quot; allowfullscreen=</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="文件上传" scheme="http://example.com/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物联网固件分析指南</title>
+    <link href="http://example.com/2023/12/11/iot-firmware-guide/"/>
+    <id>http://example.com/2023/12/11/iot-firmware-guide/</id>
+    <published>2023-12-11T03:04:19.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：gxh191</p><iframe src="//player.bilibili.com/player.html?aid=409519056&bvid=BV1rG411Y78x&cid=1362593257&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：gxh191&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=409519056&amp;bvid=BV1rG411Y78x&amp;cid=1362593257&amp;p=1&amp;autoplay=0&quot; allowfullscr</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="二进制安全" scheme="http://example.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MEVBot Exploit</title>
+    <link href="http://example.com/2023/12/05/mevbot/"/>
+    <id>http://example.com/2023/12/05/mevbot/</id>
+    <published>2023-12-05T12:50:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：LCatro</p><iframe src="//player.bilibili.com/player.html?aid=791505071&bvid=BV1jC4y1y7sG&cid=1349948911&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：LCatro&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=791505071&amp;bvid=BV1jC4y1y7sG&amp;cid=1349948911&amp;p=1&amp;autoplay=0&quot; allowfullscr</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="智能合约" scheme="http://example.com/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hardhat框架与Uniswap交易代码</title>
+    <link href="http://example.com/2023/12/01/hardswap-uniswap/"/>
+    <id>http://example.com/2023/12/01/hardswap-uniswap/</id>
+    <published>2023-12-01T12:50:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：流竹君雅</p><iframe src="//player.bilibili.com/player.html?aid=324094204&bvid=BV1yw41187sA&cid=1349517553&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：流竹君雅&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=324094204&amp;bvid=BV1yw41187sA&amp;cid=1349517553&amp;p=1&amp;autoplay=0&quot; allowfullscree</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="智能合约" scheme="http://example.com/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物联网固件仿真与漏洞挖掘基础思路</title>
+    <link href="http://example.com/2023/11/23/iot-firmware/"/>
+    <id>http://example.com/2023/11/23/iot-firmware/</id>
+    <published>2023-11-23T13:00:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：re1wn</p><iframe src="//player.bilibili.com/player.html?aid=493590665&bvid=BV1DN411u7Uj&cid=1337166663&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：re1wn&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=493590665&amp;bvid=BV1DN411u7Uj&amp;cid=1337166663&amp;p=1&amp;autoplay=0&quot; allowfullscre</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="二进制安全" scheme="http://example.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Robot学习经历分享</title>
+    <link href="http://example.com/2023/11/21/robot-study/"/>
+    <id>http://example.com/2023/11/21/robot-study/</id>
+    <published>2023-11-21T02:00:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：阳仔</p><iframe src="//player.bilibili.com/player.html?aid=833436292&bvid=BV1zg4y1Q7NH&cid=1332493685&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：阳仔&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=833436292&amp;bvid=BV1zg4y1Q7NH&amp;cid=1332493685&amp;p=1&amp;autoplay=0&quot; allowfullscreen=</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="二进制安全" scheme="http://example.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IoT：手把手带你复现两个漏洞</title>
+    <link href="http://example.com/2023/11/20/iot-re/"/>
+    <id>http://example.com/2023/11/20/iot-re/</id>
+    <published>2023-11-20T02:30:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：zer0_1s</p><iframe src="//player.bilibili.com/player.html?aid=493428803&bvid=BV1wN411u7ov&cid=1332320564&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：zer0_1s&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=493428803&amp;bvid=BV1wN411u7ov&amp;cid=1332320564&amp;p=1&amp;autoplay=0&quot; allowfullsc</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="二进制安全" scheme="http://example.com/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DataCon经验分享</title>
+    <link href="http://example.com/2023/11/15/datacon/"/>
+    <id>http://example.com/2023/11/15/datacon/</id>
+    <published>2023-11-14T16:36:28.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：MOUCHEN</p><iframe src="//player.bilibili.com/player.html?aid=408410264&bvid=BV1gG411X7p6&cid=1332455174&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：MOUCHEN&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=408410264&amp;bvid=BV1gG411X7p6&amp;cid=1332455174&amp;p=1&amp;autoplay=0&quot; allowfullsc</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="DataCon" scheme="http://example.com/tags/DataCon/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSTI服务端模板注入</title>
+    <link href="http://example.com/2023/11/14/ssti/"/>
+    <id>http://example.com/2023/11/14/ssti/</id>
+    <published>2023-11-14T09:17:02.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：i3eg1nner</p><iframe src="//player.bilibili.com/player.html?aid=365913804&bvid=BV1T94y1G7CW&cid=1332018804&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：i3eg1nner&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=365913804&amp;bvid=BV1T94y1G7CW&amp;cid=1332018804&amp;p=1&amp;autoplay=0&quot; allowfull</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="SSTI" scheme="http://example.com/tags/SSTI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>越权漏洞知识</title>
+    <link href="http://example.com/2023/11/05/broken-access-control/"/>
+    <id>http://example.com/2023/11/05/broken-access-control/</id>
+    <published>2023-11-05T02:00:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：白色键盘</p><iframe src="//player.bilibili.com/player.html?aid=917761194&bvid=BV1mu4y1Y74B&cid=1316338740&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：白色键盘&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=917761194&amp;bvid=BV1mu4y1Y74B&amp;cid=1316338740&amp;p=1&amp;autoplay=0&quot; allowfullscree</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fuzz模糊测试系列分享（四）libfuzz源码解读</title>
+    <link href="http://example.com/2023/11/02/fuzz-libfuzz-sourcecode/"/>
+    <id>http://example.com/2023/11/02/fuzz-libfuzz-sourcecode/</id>
+    <published>2023-11-02T02:00:00.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：TBK</p><iframe src="//player.bilibili.com/player.html?aid=705345661&bvid=BV1RQ4y1H7bE&cid=1316335354&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：TBK&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=705345661&amp;bvid=BV1RQ4y1H7bE&amp;cid=1316335354&amp;p=1&amp;autoplay=0&quot; allowfullscreen</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="FUZZ" scheme="http://example.com/tags/FUZZ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fuzz模糊测试系列分享（三）libfuzz简介</title>
+    <link href="http://example.com/2023/10/30/fuzz-libfuzz-introduction/"/>
+    <id>http://example.com/2023/10/30/fuzz-libfuzz-introduction/</id>
+    <published>2023-10-30T13:56:32.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：TBK</p><iframe src="//player.bilibili.com/player.html?aid=962832005&bvid=BV1RH4y1r74p&cid=1316280344&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：TBK&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=962832005&amp;bvid=BV1RH4y1r74p&amp;cid=1316280344&amp;p=1&amp;autoplay=0&quot; allowfullscreen</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="FUZZ" scheme="http://example.com/tags/FUZZ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>逻辑漏洞和src小技巧</title>
+    <link href="http://example.com/2023/10/27/logical-flaw/"/>
+    <id>http://example.com/2023/10/27/logical-flaw/</id>
+    <published>2023-10-27T15:12:10.000Z</published>
+    <updated>2024-03-04T12:00:25.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：彦语</p><iframe src="//player.bilibili.com/player.html?aid=705198558&bvid=BV1fQ4y1n7dB&cid=1313129198&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：彦语&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=705198558&amp;bvid=BV1fQ4y1n7dB&amp;cid=1313129198&amp;p=1&amp;autoplay=0&quot; allowfullscreen=</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="SRC" scheme="http://example.com/tags/SRC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL注入防御绕过方法（SQL bypass）</title>
+    <link href="http://example.com/2023/10/26/sql-bypass/"/>
+    <id>http://example.com/2023/10/26/sql-bypass/</id>
+    <published>2023-10-26T04:10:00.000Z</published>
+    <updated>2024-03-04T12:00:25.468Z</updated>
+    
+    <content type="html"><![CDATA[<p>分享人：白玉京</p><iframe src="//player.bilibili.com/player.html?aid=920108459&bvid=BV1Uu4y1n7jq&cid=1311474307&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;分享人：白玉京&lt;/p&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=920108459&amp;bvid=BV1Uu4y1n7jq&amp;cid=1311474307&amp;p=1&amp;autoplay=0&quot; allowfullscreen</summary>
+      
+    
+    
+    
+    <category term="社区分享" scheme="http://example.com/categories/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="社区分享" scheme="http://example.com/tags/%E7%A4%BE%E5%8C%BA%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="Web安全" scheme="http://example.com/tags/Web%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="Bypass" scheme="http://example.com/tags/Bypass/"/>
     
   </entry>
   
